@@ -11,6 +11,13 @@ Este trabalho foi um desafio proposto pelo professor de Java e Java Web do Senai
 Para o funcionamento do projeto é necessário baixar o banco que esta junto: **academia.sql**.
 Assim o projeto já estará funcionando.
 
+## Funcionalidades
+
+Foi pedido para compor o cadastro do usuário:
+
+* Nome, idade, enderço, etc.
+* E o principal: peso e altura. Que será utilizado para criar a sua rotina de treino.
+
 ## Linguagens e Ferramentas Utilizadas
 
 Para trabalhar foi utilizado a IDE:
